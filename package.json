@@ -18,8 +18,12 @@
     "@angular/platform-browser": "^18.2.0",
     "@angular/platform-browser-dynamic": "^18.2.0",
     "@angular/router": "^18.2.0",
+    "@reown/appkit": "^1.0.7",
+    "@reown/appkit-adapter-wagmi": "^1.0.7",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
+    "viem": "^2.21.18",
+    "wagmi": "^2.12.16",
     "zone.js": "~0.14.10"
   },
   "devDependencies": {
